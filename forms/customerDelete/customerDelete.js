@@ -1,4 +1,3 @@
-
 customerDelete.onshow = function() {
   txtCustomerNames_contents.style.height = "200px"
 
